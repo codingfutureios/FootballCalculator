@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ccp</string>
+    <string name="todo">TODO</string>
+    <string name="american_football">American Football</string>
+    <string name="calculator">Calculator</string>
+    <string name="team_a">Team A</string>
+    <string name="_0">0</string>
+    <string name="touchdown">Touchdown</string>
+    <string name="field_goal">Field goal</string>
+    <string name="safety">Safety</string>
+    <string name="try_after_td">try after TD</string>
+    <string name="teamb">TeamB</string>
+    <string name="_02">0</string>
+    <string name="touchdown2">Touchdown</string>
+    <string name="field_goal2">Field Goal</string>
+    <string name="safety2">Safety</string>
+    <string name="try_after_td2">try after TD</string>
+    <string name="todo2">TODO</string>
+    <string name="reset">Reset</string>
+</resources>
